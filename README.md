@@ -2,8 +2,14 @@ Do you think you have the DevOps skills to work in a fast paced technical consul
 
 ## Objectives
 
- 1.  Provision two AWS Elastic Beanstalk and a Route 53 record using CloudFormation.
+ 1.  Provision two AWS Elastic Beanstalk Apps and a Route53 Record using CloudFormation.
+
+   a.  The Elastic Beanstalk apps must be in two different AWS Regions.
+
+   b.  The Route53 Record should provide *geographical* traffic management across both AWS Regions.
+
  2.  Publish [a Spring Boot Application][package] to both the Beanstalk Apps.
+
  3.  Using Bash, automate the above.
 
 ## Results
