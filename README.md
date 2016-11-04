@@ -12,9 +12,14 @@ Do you think you have the DevOps skills to work in a fast paced technical consul
 
  3.  Using Bash, automate the above.
 
+## Platform Architecture
+
+![Architecture Diagram of Proposed Solution][diagram]
+
 ## Results
 
 Commit your changes to a clone of this repository and send us the link, we will want to look over your work, and we may ask you to talk through your solution when we speak to you.
 
   [amido]: https://www.amido.com/
   [package]: Amido.PlatformEngineer.Test.war
+  [diagram]: https://cdn.rawgit.com/amido/PlatformEngineerTest-AWS/83c2e9d4af3afe436da0d3c21b030fe15738dac2/diagram.svg
