@@ -21,5 +21,5 @@ Do you think you have the DevOps skills to work in a fast paced technical consul
 Commit your changes to a clone of this repository and send us the link, we will want to look over your work, and we may ask you to talk through your solution when we speak to you.
 
   [amido]: https://www.amido.com/
-  [package]: Amido.PlatformEngineer.Test.war
+  [package]: https://cdn.rawgit.com/amido/PlatformEngineerTest-AWS/c59257e9e85fd7bedfb030a0b4f8538a566d5f3e/Amido.PlatformEngineer.Test.war
   [diagram]: https://cdn.rawgit.com/amido/PlatformEngineerTest-AWS/83c2e9d4af3afe436da0d3c21b030fe15738dac2/diagram.svg
